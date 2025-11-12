@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Leyan Pan, a first-year Ph.D. student at the Georgia Institute of Technology advised by Prof. Wenke Lee. My research interests lie mainly in the theory and application of Machine Learning and Large Language Models in different fields, especially Computer Security. My current research interest is mainly focused on understanding the reasoning capabilities of Large Language Models and applying such capabilities in security-related applications such as program analysis.
+I am Leyan Pan, a third-year Ph.D. student at the Georgia Institute of Technology advised by Prof. Wenke Lee. My research interests lie mainly in the theory and application of Machine Learning and Large Language Models in different fields, especially Computer Security. My current research interest is mainly focused on understanding the reasoning capabilities of Large Language Models and applying such capabilities in security-related applications such as program analysis.
 
 Before starting my Ph.D., I conducted research with Professor. Santosh Vempala regarding the emergence of Neural Collapse in the terminal phase of training in a deep neural network as part of my Master's Degree. My previous research project includes a survey of homomorphic encryption schemes and their application to computationally limited hardware under the guidance of Professor. Vincent Mooney.
 

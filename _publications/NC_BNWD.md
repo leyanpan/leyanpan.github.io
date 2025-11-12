@@ -1,5 +1,5 @@
 ---
-title: "(Preprint) Towards Understanding Neural Collapse: The Effects of Batch Normalization and Weight Decay"
+title: "Towards Understanding Neural Collapse: The Effects of Batch Normalization and Weight Decay"
 collection: publications
 permalink: /publication/Neural-Collapse
 excerpt: 'Neural Collapse (NC) is a geometric structure recently observed in the final layer of neural network classifiers. In this paper, we investigate the interrelationships between batch normalization (BN), weight decay, and proximity to the NC structure. Our work introduces the geometrically intuitive intra-class and inter-class cosine similarity measure, which encapsulates multiple core aspects of NC. Leveraging this measure, we establish theoretical guarantees for the emergence of NC under the influence of last-layer BN and weight decay, specifically in scenarios where the regularized cross-entropy loss is near-optimal. Experimental evidence substantiates our theoretical findings, revealing a pronounced occurrence of NC in models incorporating BN and appropriate weight-decay values. This combination of theoretical and empirical insights suggests a greatly influential role of BN and weight decay in the emergence of NC.'
